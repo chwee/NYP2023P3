@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\model",
+    "\\model\\keypoint_classifier",
+    "\\model\\point_history_classifier"
+  ],
+  "SelectedNode": "\\app.py",
+  "PreviewInSolutionExplorer": false
+}
